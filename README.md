@@ -8,3 +8,5 @@ It is adapted directly from the mouse driver originally written by Joel Moritz J
 Whilst the Cthulhu Shield is no longer produced and Sapien LLC appears to be defunct, the schematics are FOSS.
 
 I have personally tested this code with [StepMania 5](https://www.stepmania.com), and it's remarkably and singularly uncomfortable, yet playable.
+
+**Note:** This requires an Arduino Leonardo or a [HoodLoader2](https://github.com/NicoHood/HoodLoader2)-modified Uno/Mega.
